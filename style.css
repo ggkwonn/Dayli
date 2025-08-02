@@ -1,5 +1,6 @@
 h1 {
    font-family: 'Garamond', serif;
+   font-size: 50px;
    background-color: #7D8E95;
    color: #344648;
    text-align: center;
@@ -14,25 +15,28 @@ body {
 
 #Highlight {
    text-align: center;
+   font-size: 25px;
    border-radius: 25px;
    background: #fbe0c3;
    padding: 20px; 
    width: 600px;
-   height: 150px; 
-   margin: auto; 
+   height: 200px; 
+   margin-bottom: 20px; 
 }
 
 #GoalTracker {
-   text-align: right;
+   text-align: left;
+   font-size: 25px;
    border-radius: 25px;
    background: #ffbb98;
    padding: 20px; 
    width: 600px;
-   height: 150px; 
-   margin: auto; 
+   height: 400px; 
+   margin-bottom: 20px; 
 }
 #HoursOfSleep {
-   text-align: right;
+   text-align: left;
+   font-size: 25px;
    border-radius: 25px;
    background: #344648;
    padding: 20px; 
