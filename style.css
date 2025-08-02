@@ -1,0 +1,55 @@
+head {
+   font-family: 'Garamond', serif;
+   background-color: #7D8E95;
+   color: #344648;
+   text-align: center;
+   line-height: 1.6;
+}
+
+body {
+   font-family: 'Garamond', serif;
+   background-color: #7D8E95;
+   padding: 1rem 2rem;
+}
+
+#Highlight {
+   text-align: center;
+   border-radius: 25px;
+   background: #fbe0c3;
+   padding: 20px; 
+   width: 600px;
+   height: 150px; 
+   margin: auto; 
+}
+
+#GoalTracker {
+   text-align: right;
+   border-radius: 25px;
+   background: #ffbb98;
+   padding: 20px; 
+   width: 600px;
+   height: 150px; 
+   margin: auto; 
+}
+#HoursOfSleep {
+   text-align: right;
+   border-radius: 25px;
+   background: #344648;
+   padding: 20px; 
+   width: 600px;
+   height: 150px; 
+   margin: auto; 
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: #fbe0c3;
+}
+
+/* Color scheme
+FBE0C3
+FFBB98
+7D8E95
+344648*/
