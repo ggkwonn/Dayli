@@ -20,7 +20,8 @@ body {
    background: #fbe0c3;
    padding: 20px; 
    width: 600px;
-   height: 200px; 
+   height: 250px; 
+   margin: auto; 
    margin-bottom: 20px; 
 }
 
@@ -32,6 +33,7 @@ body {
    padding: 20px; 
    width: 600px;
    height: 400px; 
+   margin: auto;
    margin-bottom: 20px; 
 }
 #HoursOfSleep {
